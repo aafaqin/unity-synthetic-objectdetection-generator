@@ -1,2 +1,6 @@
 Base path: '/media/aafaq/work_drive/unity/2020.1.3f1/Editor/Data', plugins path '/media/aafaq/work_drive/unity/2020.1.3f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=1957 outsize=3380 ok=1
+
+Quitting shader compiler process
